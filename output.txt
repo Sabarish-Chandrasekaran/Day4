@@ -1,0 +1,1252 @@
+//output for name,region,subregion and population 
+xhr.js:54 Name:Montenegro
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:621718
+xhr.js:53 Name:Tokelau
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:1411
+xhr.js:53 Name:Republic of Cuba
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:11326616
+xhr.js:53 Name:Guadeloupe
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:400132
+xhr.js:53 Name:Hellenic Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:10715549
+xhr.js:53 Name:Martinique
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:378243
+xhr.js:53 Name:Bolivarian Republic of Venezuela
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:28435943
+xhr.js:53 Name:United States Minor Outlying Islands
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:300
+xhr.js:53 Name:Independent State of Samoa
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:198410
+xhr.js:53 Name:Kingdom of Cambodia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:16718971
+xhr.js:53 Name:Hong Kong Special Administrative Region of the People's Republic of China
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:7500700
+xhr.js:53 Name:Islamic Republic of Mauritania
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:4649660
+xhr.js:53 Name:Republic of Yemen
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:29825968
+xhr.js:53 Name:Republic of Djibouti
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:988002
+xhr.js:53 Name:Virgin Islands
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:30237
+xhr.js:53 Name:Arab Republic of Egypt
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:102334403
+xhr.js:53 Name:Republic of Croatia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:4047200
+xhr.js:53 Name:Principality of Liechtenstein
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:38137
+xhr.js:53 Name:Republic of Kazakhstan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Central Asia
+xhr.js:56 Population:18754440
+xhr.js:53 Name:Kingdom of Denmark
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:5831404
+xhr.js:53 Name:Republic of Benin
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:12123198
+xhr.js:53 Name:Commonwealth of the Northern Mariana Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:57557
+xhr.js:53 Name:Bermuda
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:63903
+xhr.js:53 Name:Italian Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:59554023
+xhr.js:53 Name:South Georgia and the South Sandwich Islands
+xhr.js:54 Region:Antarctic
+xhr.js:55 Subregion:undefined
+xhr.js:56 Population:30
+xhr.js:53 Name:Republic of South Africa
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:59308690
+xhr.js:53 Name:Republic of Rwanda
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:12952209
+xhr.js:53 Name:Macao Special Administrative Region of the People's Republic of China
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:649342
+xhr.js:53 Name:Republic of Burundi
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:11890781
+xhr.js:53 Name:Guiana
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:254541
+xhr.js:53 Name:Ukraine
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Eastern Europe
+xhr.js:56 Population:44134693
+xhr.js:53 Name:Togolese Republic
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:8278737
+xhr.js:53 Name:Republic of China (Taiwan)
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:23503349
+xhr.js:53 Name:Antarctica
+xhr.js:54 Region:Antarctic
+xhr.js:55 Subregion:undefined
+xhr.js:56 Population:1000
+xhr.js:53 Name:Cook Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:18100
+xhr.js:53 Name:Republic of Guinea-Bissau
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:1967998
+xhr.js:53 Name:Sint Maarten
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:40812
+xhr.js:53 Name:Republic of Côte d'Ivoire
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:26378275
+xhr.js:53 Name:Iceland
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:366425
+xhr.js:53 Name:Republic of Paraguay
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:7132530
+xhr.js:53 Name:Kingdom of Eswatini
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:1160164
+xhr.js:53 Name:Hungary
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:9749763
+xhr.js:53 Name:Heard Island and McDonald Islands
+xhr.js:54 Region:Antarctic
+xhr.js:55 Subregion:undefined
+xhr.js:56 Population:0
+xhr.js:53 Name:Republic of Moldova
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Eastern Europe
+xhr.js:56 Population:2617820
+xhr.js:53 Name:Republic of Chile
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:19116209
+xhr.js:53 Name:Greenland
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:56367
+xhr.js:53 Name:Republic of Nauru
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:10834
+xhr.js:53 Name:Oriental Republic of Uruguay
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:3473727
+xhr.js:53 Name:Republic of Ecuador
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:17643060
+xhr.js:53 Name:Democratic Socialist Republic of Sri Lanka
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:21919000
+xhr.js:53 Name:Saint Pierre and Miquelon
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:6069
+xhr.js:53 Name:Republic of Guatemala
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:16858333
+xhr.js:53 Name:Republic of Ghana
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:31072945
+xhr.js:53 Name:State of Israel
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:9216900
+xhr.js:53 Name:Republic of Mozambique
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:31255435
+xhr.js:53 Name:Kingdom of Bhutan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:771612
+xhr.js:53 Name:Cayman Islands
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:65720
+xhr.js:53 Name:Democratic People's Republic of Korea
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:25778815
+xhr.js:53 Name:Kingdom of Bahrain
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:1701583
+xhr.js:53 Name:Faroe Islands
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:48865
+xhr.js:53 Name:Aruba
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:106766
+xhr.js:53 Name:Republic of Iraq
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:40222503
+xhr.js:53 Name:British Indian Ocean Territory
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:3000
+xhr.js:53 Name:Kingdom of Morocco
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:36910558
+xhr.js:53 Name:Republic of North Macedonia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:2077132
+xhr.js:53 Name:Republic of Poland
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:37950802
+xhr.js:53 Name:Solomon Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Melanesia
+xhr.js:56 Population:686878
+xhr.js:53 Name:Federative Republic of Brazil
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:212559409
+xhr.js:53 Name:Republic of Slovenia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:2100126
+xhr.js:53 Name:Sultanate of Oman
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:5106622
+xhr.js:53 Name:Kingdom of Thailand
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:69799978
+xhr.js:53 Name:Central African Republic
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:4829764
+xhr.js:53 Name:Republic of El Salvador
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:6486201
+xhr.js:53 Name:Republic of Armenia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:2963234
+xhr.js:53 Name:Republic of Honduras
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:9904608
+xhr.js:53 Name:Republic of Zambia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:18383956
+xhr.js:53 Name:Svalbard og Jan Mayen
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:2562
+xhr.js:53 Name:Grand Duchy of Luxembourg
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:632275
+xhr.js:53 Name:Republic of Colombia
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:50882884
+xhr.js:53 Name:Barbados
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:287371
+xhr.js:53 Name:State of Libya
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:6871287
+xhr.js:53 Name:Republic of Serbia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:6908224
+xhr.js:53 Name:Principality of Monaco
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:39244
+xhr.js:53 Name:Kingdom of Sweden
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:10353442
+xhr.js:53 Name:Republic of Niger
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:24206636
+xhr.js:53 Name:Republic of Angola
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:32866268
+xhr.js:53 Name:Republic of Panama
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:4314768
+xhr.js:53 Name:Republic of Mauritius
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:1265740
+xhr.js:53 Name:United Republic of Tanzania
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:59734213
+xhr.js:53 Name:Republic of Mali
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:20250834
+xhr.js:53 Name:Republic of Cameroon
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:26545864
+xhr.js:53 Name:Georgia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:3714000
+xhr.js:53 Name:Republic of the Gambia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:2416664
+xhr.js:53 Name:Republic of Malta
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:525285
+xhr.js:53 Name:American Samoa
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:55197
+xhr.js:53 Name:Republic of Zimbabwe
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:14862927
+xhr.js:53 Name:Belize
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:397621
+xhr.js:53 Name:Federation of Saint Christopher and Nevis
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:53192
+xhr.js:53 Name:Vatican City State
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:451
+xhr.js:53 Name:Federated States of Micronesia
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:115021
+xhr.js:53 Name:Republic of Chad
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:16425859
+xhr.js:53 Name:Republic of Belarus
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Eastern Europe
+xhr.js:56 Population:9398861
+xhr.js:53 Name:Canada
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:38005238
+xhr.js:53 Name:Argentine Republic
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:45376763
+xhr.js:53 Name:Republic of Suriname
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:586634
+xhr.js:53 Name:Commonwealth of Australia
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Australia and New Zealand
+xhr.js:56 Population:25687041
+xhr.js:53 Name:Republic of Guinea
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:13132792
+xhr.js:53 Name:Republic of South Sudan
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:11193729
+xhr.js:53 Name:Republic of Namibia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:2540916
+xhr.js:53 Name:State of Qatar
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:2881060
+xhr.js:53 Name:Republic of the Union of Myanmar
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:54409794
+xhr.js:53 Name:Falkland Islands
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:2563
+xhr.js:53 Name:Republic of Ireland
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:4994724
+xhr.js:53 Name:Democratic Republic of São Tomé and Príncipe
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:219161
+xhr.js:53 Name:Bouvet Island
+xhr.js:54 Region:Antarctic
+xhr.js:55 Subregion:undefined
+xhr.js:56 Population:0
+xhr.js:53 Name:Republic of Lithuania
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:2794700
+xhr.js:53 Name:Democratic Republic of the Congo
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:89561404
+xhr.js:53 Name:Republic of the Philippines
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:109581085
+xhr.js:53 Name:Nation of Brunei, Abode of Peace
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:437483
+xhr.js:53 Name:Republic of Sierra Leone
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:7976985
+xhr.js:53 Name:Mongolia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:3278292
+xhr.js:53 Name:Sahrawi Arab Democratic Republic
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:510713
+xhr.js:53 Name:Pitcairn Group of Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:56
+xhr.js:53 Name:Republic of the Sudan
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:43849269
+xhr.js:53 Name:Democratic Republic of Timor-Leste
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:1318442
+xhr.js:53 Name:Anguilla
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:13452
+xhr.js:53 Name:Country of Curaçao
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:155014
+xhr.js:53 Name:Republic of the Congo
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:89561404
+xhr.js:53 Name:Republic of Finland
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:5530719
+xhr.js:53 Name:Republic of Austria
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:8917205
+xhr.js:53 Name:Federal Democratic Republic of Ethiopia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:114963583
+xhr.js:53 Name:Saint Martin
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:38659
+xhr.js:53 Name:Saint Vincent and the Grenadines
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:110947
+xhr.js:53 Name:Bosnia and Herzegovina
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:3280815
+xhr.js:53 Name:Union of the Comoros
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:869595
+xhr.js:53 Name:Bonaire, Sint Eustatius and Saba
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:25987
+xhr.js:53 Name:Kingdom of Norway
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:5379475
+xhr.js:53 Name:State of Kuwait
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:4270563
+xhr.js:53 Name:Burkina Faso
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:20903278
+xhr.js:53 Name:Territory of the Wallis and Futuna Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:11750
+xhr.js:53 Name:People's Republic of Bangladesh
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:164689383
+xhr.js:53 Name:Commonwealth of Dominica
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:71991
+xhr.js:53 Name:Jamaica
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:2961161
+xhr.js:53 Name:Principality of Andorra
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:77265
+xhr.js:53 Name:Gibraltar
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:33691
+xhr.js:53 Name:Malaysia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:32365998
+xhr.js:53 Name:United Kingdom of Great Britain and Northern Ireland
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:67215293
+xhr.js:53 Name:Republic of Madagascar
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:27691019
+xhr.js:53 Name:Swiss Confederation
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:8654622
+xhr.js:53 Name:Tuvalu
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:11792
+xhr.js:53 Name:People's Democratic Republic of Algeria
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:510713
+xhr.js:53 Name:Russian Federation
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Eastern Europe
+xhr.js:56 Population:144104080
+xhr.js:53 Name:Socialist Republic of Vietnam
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:97338583
+xhr.js:53 Name:Territory of the Cocos (Keeling) Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Australia and New Zealand
+xhr.js:56 Population:544
+xhr.js:53 Name:Federal Democratic Republic of Nepal
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:29136808
+xhr.js:53 Name:Kingdom of the Netherlands
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:16655799
+xhr.js:53 Name:Independent and Sovereign Republic of Kiribati
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:119446
+xhr.js:53 Name:Republic of Liberia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:5057677
+xhr.js:53 Name:Federal Republic of Somalia
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:15893219
+xhr.js:53 Name:Romania
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:19286123
+xhr.js:53 Name:Republic of the Marshall Islands
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:59194
+xhr.js:53 Name:Kingdom of Spain
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:47351567
+xhr.js:53 Name:United States of America
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:329484123
+xhr.js:53 Name:Réunion Island
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:840974
+xhr.js:53 Name:Republic of Singapore
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:5685807
+xhr.js:53 Name:Tunisian Republic
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Northern Africa
+xhr.js:56 Population:11818618
+xhr.js:53 Name:Republic of Azerbaijan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:10110116
+xhr.js:53 Name:Independent State of Papua New Guinea
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Melanesia
+xhr.js:56 Population:8947027
+xhr.js:53 Name:Kingdom of Lesotho
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:2142252
+xhr.js:53 Name:Commonwealth of the Bahamas
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:393248
+xhr.js:53 Name:People's Republic of China
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:1402112000
+xhr.js:53 Name:Department of Mayotte
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:226915
+xhr.js:53 Name:Republic of Senegal
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:16743930
+xhr.js:53 Name:Republic of Cyprus
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:1207361
+xhr.js:53 Name:United Arab Emirates
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:9890400
+xhr.js:53 Name:Turkmenistan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Central Asia
+xhr.js:56 Population:6031187
+xhr.js:53 Name:Lao People's Democratic Republic
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:7275556
+xhr.js:53 Name:Kingdom of Belgium
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:11555997
+xhr.js:53 Name:Hashemite Kingdom of Jordan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:10203140
+xhr.js:53 Name:State of Palestine
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:4803269
+xhr.js:53 Name:Republic of Seychelles
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:98462
+xhr.js:53 Name:Republic of Uzbekistan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Central Asia
+xhr.js:56 Population:34232050
+xhr.js:53 Name:New Caledonia
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Melanesia
+xhr.js:56 Population:271960
+xhr.js:53 Name:Åland Islands
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:29458
+xhr.js:53 Name:Republic of Nicaragua
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:6624554
+xhr.js:53 Name:Guam
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:168783
+xhr.js:53 Name:Republic of Kenya
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:53771300
+xhr.js:53 Name:French Polynesia
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:280904
+xhr.js:53 Name:Bailiwick of Jersey
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:100800
+xhr.js:53 Name:Czech Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:10698896
+xhr.js:53 Name:Republic of Uganda
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:45741000
+xhr.js:53 Name:New Zealand
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Australia and New Zealand
+xhr.js:56 Population:5084300
+xhr.js:53 Name:Montserrat
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:4922
+xhr.js:53 Name:Collectivity of Saint Barthélemy
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:4255
+xhr.js:53 Name:Republic of Costa Rica
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Central America
+xhr.js:56 Population:5094114
+xhr.js:53 Name:United Mexican States
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:North America
+xhr.js:56 Population:128932753
+xhr.js:53 Name:State of Eritrea
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:5352000
+xhr.js:53 Name:Grenada
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:112519
+xhr.js:53 Name:Antigua and Barbuda
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:97928
+xhr.js:53 Name:Japan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:125836021
+xhr.js:53 Name:Slovak Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Central Europe
+xhr.js:56 Population:5458827
+xhr.js:53 Name:Virgin Islands of the United States
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:106290
+xhr.js:53 Name:Republic of Kosovo
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:1775378
+xhr.js:53 Name:Republic of Vanuatu
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Melanesia
+xhr.js:56 Population:307150
+xhr.js:53 Name:Republic of Palau
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Micronesia
+xhr.js:56 Population:18092
+xhr.js:53 Name:Republic of Botswana
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Southern Africa
+xhr.js:56 Population:2351625
+xhr.js:53 Name:Kingdom of Tonga
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:105697
+xhr.js:53 Name:Republic of Fiji
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Melanesia
+xhr.js:56 Population:896444
+xhr.js:53 Name:French Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:67391582
+xhr.js:53 Name:Republic of Albania
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:2837743
+xhr.js:53 Name:Portuguese Republic
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:10305564
+xhr.js:53 Name:Niue
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Polynesia
+xhr.js:56 Population:1470
+xhr.js:53 Name:Republic of Peru
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:32971846
+xhr.js:53 Name:Republic of Indonesia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:South-Eastern Asia
+xhr.js:56 Population:273523621
+xhr.js:53 Name:Saint Lucia
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:183629
+xhr.js:53 Name:Bailiwick of Guernsey
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:62999
+xhr.js:53 Name:Kyrgyz Republic
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Central Asia
+xhr.js:56 Population:6591600
+xhr.js:53 Name:Federal Republic of Germany
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Western Europe
+xhr.js:56 Population:83240525
+xhr.js:53 Name:Plurinational State of Bolivia
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:11673029
+xhr.js:53 Name:Dominican Republic
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:10847904
+xhr.js:53 Name:Commonwealth of Puerto Rico
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:3194034
+xhr.js:53 Name:Lebanese Republic
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:6825442
+xhr.js:53 Name:Republic of the Maldives
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:540542
+xhr.js:53 Name:Republic of San Marino
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southern Europe
+xhr.js:56 Population:33938
+xhr.js:53 Name:Republic of Korea
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Eastern Asia
+xhr.js:56 Population:51780579
+xhr.js:53 Name:Territory of Norfolk Island
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Australia and New Zealand
+xhr.js:56 Population:2302
+xhr.js:53 Name:Syrian Arab Republic
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:17500657
+xhr.js:53 Name:Islamic Republic of Afghanistan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:40218234
+xhr.js:53 Name:Republic of Malawi
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Eastern Africa
+xhr.js:56 Population:19129955
+xhr.js:53 Name:Republic of Tajikistan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Central Asia
+xhr.js:56 Population:9537642
+xhr.js:53 Name:Republic of Turkey
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:84339067
+xhr.js:53 Name:Republic of Equatorial Guinea
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:1402985
+xhr.js:53 Name:Turks and Caicos Islands
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:38718
+xhr.js:53 Name:Republic of India
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:1380004385
+xhr.js:53 Name:Federal Republic of Nigeria
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:206139587
+xhr.js:53 Name:Islamic Republic of Pakistan
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:220892331
+xhr.js:53 Name:Republic of Latvia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:1901548
+xhr.js:53 Name:Islamic Republic of Iran
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Southern Asia
+xhr.js:56 Population:83992953
+xhr.js:53 Name:Republic of Cabo Verde
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:555988
+xhr.js:53 Name:Territory of the French Southern and Antarctic Lands
+xhr.js:54 Region:Antarctic
+xhr.js:55 Subregion:undefined
+xhr.js:56 Population:400
+xhr.js:53 Name:Republic of Bulgaria
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Southeast Europe
+xhr.js:56 Population:6927288
+xhr.js:53 Name:Republic of Estonia
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:1331057
+xhr.js:53 Name:Territory of Christmas Island
+xhr.js:54 Region:Oceania
+xhr.js:55 Subregion:Australia and New Zealand
+xhr.js:56 Population:2072
+xhr.js:53 Name:Republic of Haiti
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:11402533
+xhr.js:53 Name:Saint Helena, Ascension and Tristan da Cunha
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Western Africa
+xhr.js:56 Population:53192
+xhr.js:53 Name:Isle of Man
+xhr.js:54 Region:Europe
+xhr.js:55 Subregion:Northern Europe
+xhr.js:56 Population:85032
+xhr.js:53 Name:Gabonese Republic
+xhr.js:54 Region:Africa
+xhr.js:55 Subregion:Middle Africa
+xhr.js:56 Population:2225728
+xhr.js:53 Name:Co-operative Republic of Guyana
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:South America
+xhr.js:56 Population:786559
+xhr.js:53 Name:Kingdom of Saudi Arabia
+xhr.js:54 Region:Asia
+xhr.js:55 Subregion:Western Asia
+xhr.js:56 Population:34813867
+xhr.js:53 Name:Republic of Trinidad and Tobago
+xhr.js:54 Region:Americas
+xhr.js:55 Subregion:Caribbean
+xhr.js:56 Population:1399491
+//output for flag
+https://flagcdn.com/w320/me.png
+xhr.js:28 https://flagcdn.com/w320/tk.png
+xhr.js:28 https://flagcdn.com/w320/cu.png
+xhr.js:28 https://flagcdn.com/w320/gp.png
+xhr.js:28 https://flagcdn.com/w320/gr.png
+xhr.js:28 https://flagcdn.com/w320/mq.png
+xhr.js:28 https://flagcdn.com/w320/ve.png
+xhr.js:28 https://flagcdn.com/w320/um.png
+xhr.js:28 https://flagcdn.com/w320/ws.png
+xhr.js:28 https://flagcdn.com/w320/kh.png
+xhr.js:28 https://flagcdn.com/w320/hk.png
+xhr.js:28 https://flagcdn.com/w320/mr.png
+xhr.js:28 https://flagcdn.com/w320/ye.png
+xhr.js:28 https://flagcdn.com/w320/dj.png
+xhr.js:28 https://flagcdn.com/w320/vg.png
+xhr.js:28 https://flagcdn.com/w320/eg.png
+xhr.js:28 https://flagcdn.com/w320/hr.png
+xhr.js:28 https://flagcdn.com/w320/li.png
+xhr.js:28 https://flagcdn.com/w320/kz.png
+xhr.js:28 https://flagcdn.com/w320/dk.png
+xhr.js:28 https://flagcdn.com/w320/bj.png
+xhr.js:28 https://flagcdn.com/w320/mp.png
+xhr.js:28 https://flagcdn.com/w320/bm.png
+xhr.js:28 https://flagcdn.com/w320/it.png
+xhr.js:28 https://flagcdn.com/w320/gs.png
+xhr.js:28 https://flagcdn.com/w320/za.png
+xhr.js:28 https://flagcdn.com/w320/rw.png
+xhr.js:28 https://flagcdn.com/w320/mo.png
+xhr.js:28 https://flagcdn.com/w320/bi.png
+xhr.js:28 https://flagcdn.com/w320/gf.png
+xhr.js:28 https://flagcdn.com/w320/ua.png
+xhr.js:28 https://flagcdn.com/w320/tg.png
+xhr.js:28 https://flagcdn.com/w320/tw.png
+xhr.js:28 https://flagcdn.com/w320/aq.png
+xhr.js:28 https://flagcdn.com/w320/ck.png
+xhr.js:28 https://flagcdn.com/w320/gw.png
+xhr.js:28 https://flagcdn.com/w320/sx.png
+xhr.js:28 https://flagcdn.com/w320/ci.png
+xhr.js:28 https://flagcdn.com/w320/is.png
+xhr.js:28 https://flagcdn.com/w320/py.png
+xhr.js:28 https://flagcdn.com/w320/sz.png
+xhr.js:28 https://flagcdn.com/w320/hu.png
+xhr.js:28 https://flagcdn.com/w320/hm.png
+xhr.js:28 https://flagcdn.com/w320/md.png
+xhr.js:28 https://flagcdn.com/w320/cl.png
+xhr.js:28 https://flagcdn.com/w320/gl.png
+xhr.js:28 https://flagcdn.com/w320/nr.png
+xhr.js:28 https://flagcdn.com/w320/uy.png
+xhr.js:28 https://flagcdn.com/w320/ec.png
+xhr.js:28 https://flagcdn.com/w320/lk.png
+xhr.js:28 https://flagcdn.com/w320/pm.png
+xhr.js:28 https://flagcdn.com/w320/gt.png
+xhr.js:28 https://flagcdn.com/w320/gh.png
+xhr.js:28 https://flagcdn.com/w320/il.png
+xhr.js:28 https://flagcdn.com/w320/mz.png
+xhr.js:28 https://flagcdn.com/w320/bt.png
+xhr.js:28 https://flagcdn.com/w320/ky.png
+xhr.js:28 https://flagcdn.com/w320/kp.png
+xhr.js:28 https://flagcdn.com/w320/bh.png
+xhr.js:28 https://flagcdn.com/w320/fo.png
+xhr.js:28 https://flagcdn.com/w320/aw.png
+xhr.js:28 https://flagcdn.com/w320/iq.png
+xhr.js:28 https://flagcdn.com/w320/io.png
+xhr.js:28 https://flagcdn.com/w320/ma.png
+xhr.js:28 https://flagcdn.com/w320/mk.png
+xhr.js:28 https://flagcdn.com/w320/pl.png
+xhr.js:28 https://flagcdn.com/w320/sb.png
+xhr.js:28 https://flagcdn.com/w320/br.png
+xhr.js:28 https://flagcdn.com/w320/si.png
+xhr.js:28 https://flagcdn.com/w320/om.png
+xhr.js:28 https://flagcdn.com/w320/th.png
+xhr.js:28 https://flagcdn.com/w320/cf.png
+xhr.js:28 https://flagcdn.com/w320/sv.png
+xhr.js:28 https://flagcdn.com/w320/am.png
+xhr.js:28 https://flagcdn.com/w320/hn.png
+xhr.js:28 https://flagcdn.com/w320/zm.png
+xhr.js:28 https://flagcdn.com/w320/sj.png
+xhr.js:28 https://flagcdn.com/w320/lu.png
+xhr.js:28 https://flagcdn.com/w320/co.png
+xhr.js:28 https://flagcdn.com/w320/bb.png
+xhr.js:28 https://flagcdn.com/w320/ly.png
+xhr.js:28 https://flagcdn.com/w320/rs.png
+xhr.js:28 https://flagcdn.com/w320/mc.png
+xhr.js:28 https://flagcdn.com/w320/se.png
+xhr.js:28 https://flagcdn.com/w320/ne.png
+xhr.js:28 https://flagcdn.com/w320/ao.png
+xhr.js:28 https://flagcdn.com/w320/pa.png
+xhr.js:28 https://flagcdn.com/w320/mu.png
+xhr.js:28 https://flagcdn.com/w320/tz.png
+xhr.js:28 https://flagcdn.com/w320/ml.png
+xhr.js:28 https://flagcdn.com/w320/cm.png
+xhr.js:28 https://flagcdn.com/w320/ge.png
+xhr.js:28 https://flagcdn.com/w320/gm.png
+xhr.js:28 https://flagcdn.com/w320/mt.png
+xhr.js:28 https://flagcdn.com/w320/as.png
+xhr.js:28 https://flagcdn.com/w320/zw.png
+xhr.js:28 https://flagcdn.com/w320/bz.png
+xhr.js:28 https://flagcdn.com/w320/kn.png
+xhr.js:28 https://flagcdn.com/w320/va.png
+xhr.js:28 https://flagcdn.com/w320/fm.png
+xhr.js:28 https://flagcdn.com/w320/td.png
+xhr.js:28 https://flagcdn.com/w320/by.png
+xhr.js:28 https://flagcdn.com/w320/ca.png
+xhr.js:28 https://flagcdn.com/w320/ar.png
+xhr.js:28 https://flagcdn.com/w320/sr.png
+xhr.js:28 https://flagcdn.com/w320/au.png
+xhr.js:28 https://flagcdn.com/w320/gn.png
+xhr.js:28 https://flagcdn.com/w320/ss.png
+xhr.js:28 https://flagcdn.com/w320/na.png
+xhr.js:28 https://flagcdn.com/w320/qa.png
+xhr.js:28 https://flagcdn.com/w320/mm.png
+xhr.js:28 https://flagcdn.com/w320/fk.png
+xhr.js:28 https://flagcdn.com/w320/ie.png
+xhr.js:28 https://flagcdn.com/w320/st.png
+xhr.js:28 https://flagcdn.com/w320/bv.png
+xhr.js:28 https://flagcdn.com/w320/lt.png
+xhr.js:28 https://flagcdn.com/w320/cd.png
+xhr.js:28 https://flagcdn.com/w320/ph.png
+xhr.js:28 https://flagcdn.com/w320/bn.png
+xhr.js:28 https://flagcdn.com/w320/sl.png
+xhr.js:28 https://flagcdn.com/w320/mn.png
+xhr.js:28 https://flagcdn.com/w320/eh.png
+xhr.js:28 https://flagcdn.com/w320/pn.png
+xhr.js:28 https://flagcdn.com/w320/sd.png
+xhr.js:28 https://flagcdn.com/w320/tl.png
+xhr.js:28 https://flagcdn.com/w320/ai.png
+xhr.js:28 https://flagcdn.com/w320/cw.png
+xhr.js:28 https://flagcdn.com/w320/cg.png
+xhr.js:28 https://flagcdn.com/w320/fi.png
+xhr.js:28 https://flagcdn.com/w320/at.png
+xhr.js:28 https://flagcdn.com/w320/et.png
+xhr.js:28 https://flagcdn.com/w320/mf.png
+xhr.js:28 https://flagcdn.com/w320/vc.png
+xhr.js:28 https://flagcdn.com/w320/ba.png
+xhr.js:28 https://flagcdn.com/w320/km.png
+xhr.js:28 https://flagcdn.com/w320/bq.png
+xhr.js:28 https://flagcdn.com/w320/no.png
+xhr.js:28 https://flagcdn.com/w320/kw.png
+xhr.js:28 https://flagcdn.com/w320/bf.png
+xhr.js:28 https://flagcdn.com/w320/wf.png
+xhr.js:28 https://flagcdn.com/w320/bd.png
+xhr.js:28 https://flagcdn.com/w320/dm.png
+xhr.js:28 https://flagcdn.com/w320/jm.png
+xhr.js:28 https://flagcdn.com/w320/ad.png
+xhr.js:28 https://flagcdn.com/w320/gi.png
+xhr.js:28 https://flagcdn.com/w320/my.png
+xhr.js:28 https://flagcdn.com/w320/gb.png
+xhr.js:28 https://flagcdn.com/w320/mg.png
+xhr.js:28 https://flagcdn.com/w320/ch.png
+xhr.js:28 https://flagcdn.com/w320/tv.png
+xhr.js:28 https://flagcdn.com/w320/dz.png
+xhr.js:28 https://flagcdn.com/w320/ru.png
+xhr.js:28 https://flagcdn.com/w320/vn.png
+xhr.js:28 https://flagcdn.com/w320/cc.png
+xhr.js:28 https://flagcdn.com/w320/np.png
+xhr.js:28 https://flagcdn.com/w320/nl.png
+xhr.js:28 https://flagcdn.com/w320/ki.png
+xhr.js:28 https://flagcdn.com/w320/lr.png
+xhr.js:28 https://flagcdn.com/w320/so.png
+xhr.js:28 https://flagcdn.com/w320/ro.png
+xhr.js:28 https://flagcdn.com/w320/mh.png
+xhr.js:28 https://flagcdn.com/w320/es.png
+xhr.js:28 https://flagcdn.com/w320/us.png
+xhr.js:28 https://flagcdn.com/w320/re.png
+xhr.js:28 https://flagcdn.com/w320/sg.png
+xhr.js:28 https://flagcdn.com/w320/tn.png
+xhr.js:28 https://flagcdn.com/w320/az.png
+xhr.js:28 https://flagcdn.com/w320/pg.png
+xhr.js:28 https://flagcdn.com/w320/ls.png
+xhr.js:28 https://flagcdn.com/w320/bs.png
+xhr.js:28 https://flagcdn.com/w320/cn.png
+xhr.js:28 https://flagcdn.com/w320/yt.png
+xhr.js:28 https://flagcdn.com/w320/sn.png
+xhr.js:28 https://flagcdn.com/w320/cy.png
+xhr.js:28 https://flagcdn.com/w320/ae.png
+xhr.js:28 https://flagcdn.com/w320/tm.png
+xhr.js:28 https://flagcdn.com/w320/la.png
+xhr.js:28 https://flagcdn.com/w320/be.png
+xhr.js:28 https://flagcdn.com/w320/jo.png
+xhr.js:28 https://flagcdn.com/w320/ps.png
+xhr.js:28 https://flagcdn.com/w320/sc.png
+xhr.js:28 https://flagcdn.com/w320/uz.png
+xhr.js:28 https://flagcdn.com/w320/nc.png
+xhr.js:28 https://flagcdn.com/w320/ax.png
+xhr.js:28 https://flagcdn.com/w320/ni.png
+xhr.js:28 https://flagcdn.com/w320/gu.png
+xhr.js:28 https://flagcdn.com/w320/ke.png
+xhr.js:28 https://flagcdn.com/w320/pf.png
+xhr.js:28 https://flagcdn.com/w320/je.png
+xhr.js:28 https://flagcdn.com/w320/cz.png
+xhr.js:28 https://flagcdn.com/w320/ug.png
+xhr.js:28 https://flagcdn.com/w320/nz.png
+xhr.js:28 https://flagcdn.com/w320/ms.png
+xhr.js:28 https://flagcdn.com/w320/bl.png
+xhr.js:28 https://flagcdn.com/w320/cr.png
+xhr.js:28 https://flagcdn.com/w320/mx.png
+xhr.js:28 https://flagcdn.com/w320/er.png
+xhr.js:28 https://flagcdn.com/w320/gd.png
+xhr.js:28 https://flagcdn.com/w320/ag.png
+xhr.js:28 https://flagcdn.com/w320/jp.png
+xhr.js:28 https://flagcdn.com/w320/sk.png
+xhr.js:28 https://flagcdn.com/w320/vi.png
+xhr.js:28 https://flagcdn.com/w320/xk.png
+xhr.js:28 https://flagcdn.com/w320/vu.png
+xhr.js:28 https://flagcdn.com/w320/pw.png
+xhr.js:28 https://flagcdn.com/w320/bw.png
+xhr.js:28 https://flagcdn.com/w320/to.png
+xhr.js:28 https://flagcdn.com/w320/fj.png
+xhr.js:28 https://flagcdn.com/w320/fr.png
+xhr.js:28 https://flagcdn.com/w320/al.png
+xhr.js:28 https://flagcdn.com/w320/pt.png
+xhr.js:28 https://flagcdn.com/w320/nu.png
+xhr.js:28 https://flagcdn.com/w320/pe.png
+xhr.js:28 https://flagcdn.com/w320/id.png
+xhr.js:28 https://flagcdn.com/w320/lc.png
+xhr.js:28 https://flagcdn.com/w320/gg.png
+xhr.js:28 https://flagcdn.com/w320/kg.png
+xhr.js:28 https://flagcdn.com/w320/de.png
+xhr.js:28 https://flagcdn.com/w320/bo.png
+xhr.js:28 https://flagcdn.com/w320/do.png
+xhr.js:28 https://flagcdn.com/w320/pr.png
+xhr.js:28 https://flagcdn.com/w320/lb.png
+xhr.js:28 https://flagcdn.com/w320/mv.png
+xhr.js:28 https://flagcdn.com/w320/sm.png
+xhr.js:28 https://flagcdn.com/w320/kr.png
+xhr.js:28 https://flagcdn.com/w320/nf.png
+xhr.js:28 https://flagcdn.com/w320/sy.png
+xhr.js:28 https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+xhr.js:28 https://flagcdn.com/w320/mw.png
+xhr.js:28 https://flagcdn.com/w320/tj.png
+xhr.js:28 https://flagcdn.com/w320/tr.png
+xhr.js:28 https://flagcdn.com/w320/gq.png
+xhr.js:28 https://flagcdn.com/w320/tc.png
+xhr.js:28 https://flagcdn.com/w320/in.png
+xhr.js:28 https://flagcdn.com/w320/ng.png
+xhr.js:28 https://flagcdn.com/w320/pk.png
+xhr.js:28 https://flagcdn.com/w320/lv.png
+xhr.js:28 https://flagcdn.com/w320/ir.png
+xhr.js:28 https://flagcdn.com/w320/cv.png
+xhr.js:28 https://flagcdn.com/w320/tf.png
+xhr.js:28 https://flagcdn.com/w320/bg.png
+xhr.js:28 https://flagcdn.com/w320/ee.png
+xhr.js:28 https://flagcdn.com/w320/cx.png
+xhr.js:28 https://flagcdn.com/w320/ht.png
+xhr.js:28 https://flagcdn.com/w320/sh.png
+xhr.js:28 https://flagcdn.com/w320/im.png
+xhr.js:28 https://flagcdn.com/w320/ga.png
+xhr.js:28 https://flagcdn.com/w320/gy.png
+xhr.js:28 https://flagcdn.com/w320/sa.png
+xhr.js:28 https://flagcdn.com/w320/tt.png
