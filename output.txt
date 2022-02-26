@@ -1,4 +1,5 @@
 //output for name,region,subregion and population 
+
 xhr.js:54 Name:Montenegro
 xhr.js:54 Region:Europe
 xhr.js:55 Subregion:Southeast Europe
@@ -999,7 +1000,11 @@ xhr.js:53 Name:Republic of Trinidad and Tobago
 xhr.js:54 Region:Americas
 xhr.js:55 Subregion:Caribbean
 xhr.js:56 Population:1399491
+
+
+
 //output for flag
+
 https://flagcdn.com/w320/me.png
 xhr.js:28 https://flagcdn.com/w320/tk.png
 xhr.js:28 https://flagcdn.com/w320/cu.png
