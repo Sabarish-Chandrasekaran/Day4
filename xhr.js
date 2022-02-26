@@ -32,7 +32,7 @@ xhr.onload=function(){
         console.log("Data is not available");
     }
 }
-//output=>can be seen in console(browser js)
+//output=>can be seen in console(browser js) and attached output.txt
 
 
 // 3.Use the same rest countries and print all countries name, region, sub region and population
@@ -50,14 +50,14 @@ xhr.onload=function(){
          var data=JSON.parse(xhr.response);
             // console.log(data);
             for(var i=0; i<data.length; i++){
-                console.log(data[i].name.official);
-                console.log(data[i].region);
-                console.log(data[i].subregion);
-                console.log(data[i].population);
+                console.log("Name:" + data[i].name.official);
+                console.log("Region:" + data[i].region);
+                console.log("Subregion:" + data[i].subregion);
+                console.log("Population:" + data[i].population);
             }
     }else{
         //you should print the error 
         console.log("Data is not available");
     }
 }
-//output=>can be seen in console(browser js)
+//output=>can be seen in console(browser js) and attached output.txt
